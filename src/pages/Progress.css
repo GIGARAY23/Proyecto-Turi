@@ -1,0 +1,15 @@
+:where(.css-dev-only-do-not-override-ed5zg0).ant-select-dropdown .ant-select-item-option-selected:not(.ant-select-item-option-disabled) {
+
+    background-color: rgb(0 0 0 / 99%);
+}
+
+:where(.css-dev-only-do-not-override-ed5zg0).ant-tree .ant-tree-node-content-wrapper,
+:where(.css-dev-only-do-not-override-ed5zg0).ant-tree .ant-tree-checkbox+span {
+
+    background-color: #1f2937;
+}
+
+:where(.css-dev-only-do-not-override-ed5zg0).ant-tree .ant-tree-node-content-wrapper.ant-tree-node-selected,
+:where(.css-dev-only-do-not-override-ed5zg0).ant-tree .ant-tree-checkbox+span.ant-tree-node-selected {
+    background-color: #1f2937;
+}

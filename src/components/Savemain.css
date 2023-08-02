@@ -1,0 +1,19 @@
+/* :where(.css-dev-only-do-not-override-ed5zg0).ant-select-single .ant-select-selector {
+    color: white;
+}
+
+:where(.css-dev-only-do-not-override-ed5zg0).ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    background-color: #4a5568;
+}
+
+:where(.css-dev-only-do-not-override-ed5zg0).ant-select-dropdown {
+    background-color: #6a798d;
+    color: white;
+}
+.ant-select-item-option-content{
+    color: white;
+}
+.ant-input.css-dev-only-do-not-override-ed5zg0{
+    background-color: #4a5568;
+    color: white;
+} */

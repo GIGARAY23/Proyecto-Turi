@@ -1,0 +1,19 @@
+/* :where(.css-dev-only-do-not-override-ed5zg0).ant-steps .ant-steps-item-wait>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title {
+color: white;}
+.ant-steps-item-content-icon {
+    color: orange;}
+    :where(.css-dev-only-do-not-override-ed5zg0).ant-steps .ant-steps-item-process .ant-steps-item-icon{
+        background-color: orange;
+        border-color: rgb(243, 225, 192);
+    }
+    :where(.css-dev-only-do-not-override-ed5zg0).ant-steps .ant-steps-item-process>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title{
+        color: white;
+    }
+    :where(.css-dev-only-do-not-override-ed5zg0).ant-steps .ant-steps-item-finish>.ant-steps-item-container>.ant-steps-item-content>.ant-steps-item-title{color: white;}
+    :where(.css-dev-only-do-not-override-ed5zg0).ant-steps.ant-steps-navigation .ant-steps-item::before{background-color: orange;}
+    :where(.css-dev-only-do-not-override-ed5zg0).ant-steps .ant-steps-item-wait .ant-steps-item-icon >.ant-steps-icon{
+        color: white;
+    }
+    .ant-steps-item-container {
+        border: none;
+      } */
